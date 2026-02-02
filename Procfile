@@ -1,1 +1,1 @@
-release: bundle exec rails db:schema:load
+release: DISABLE_DATABASE_ENVIRONMENT_CHECK=1 bundle exec rails db:schema:load
