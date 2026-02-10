@@ -67,5 +67,5 @@ gem "rspec-rails", "~> 8.0"
 
 gem 'devise', '~>4.9'
 gem "omniauth", "~>2.1"
-gem "omniauth-rails_csrf_protection", "~>1.0"
+gem "omniauth-rails_csrf_protection", "~>2.0"
 gem "omniauth-google-oauth2", "~>1.1"
